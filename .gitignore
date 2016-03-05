@@ -4,3 +4,4 @@ temp/
 .DS_Store
 dist/
 test/tmp
+*.sublime-*
